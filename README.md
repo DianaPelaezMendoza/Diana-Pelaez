@@ -20,6 +20,6 @@
 <p align="left">
 📫 Cómo contactarme **diana.28.pelaez@gmail.com**</p>
 <p align="left">
-<a href="https://linkedin.com/in/diana carolina pelaez mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana carolina pelaez mendoza" height="30" width="40" /></a>DIANA CAROLINA PELAEZ MENDOZA
+<a href="https://linkedin.com/in/diana carolina pelaez mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana carolina pelaez mendoza" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DIANAPELAEZMENDOZA&" alt="DIANAPELAEZMENDOZA" /></p>
+<p><img align="center" src="https://github.com/DianaPelaezMendoza/Diana-Pelaez" alt="DIANAPELAEZMENDOZA"/></p>
