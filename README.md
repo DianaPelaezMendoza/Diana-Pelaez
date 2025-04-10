@@ -21,5 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dianapelaezmendoza&show_icons=true&locale=en" alt="dianapelaezmendoza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dianapelaezmendoza&" alt="dianapelaezmendoza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DIANAPELAEZMENDOZA&" alt="DIANAPELAEZMENDOZA" /></p>
+
 # Diana-Pelaez
